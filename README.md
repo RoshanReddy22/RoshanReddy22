@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/RoshanReddy22/RoshanReddy22/blob/main/Grey%20Minimalist%20Graphic%20Designer%20Linkedin%20Banner%20(2).png)](https://roshanreddy.io)
 
 <h1 align="center">Hi 👋, I'm Mancharla Roshan Reddy</h1>
-<h3 align="center">\</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-coding-laptop-software-developer-work-with-business-project-structures-systems-analyzing-data-program-development-concept-flat-vector-illustration-isolated-white-background_633472-597.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanreddy22&label=Profile%20views&color=0e75b6&style=flat" alt="roshanreddy22" /> </p>
 
